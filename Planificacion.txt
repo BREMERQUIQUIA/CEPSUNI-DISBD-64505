@@ -4,10 +4,10 @@ Clase 1 19.ENE.2024:
 Clase 2 24.ENE.2024: 
 Clase 3 26.ENE.2024: => PC1 (28/ENE)
 Clase 4 29.ENE.2024: 
-Clase 5 31.ENE.2024: => PC2
-Clase 6 02.FEB.2024: => PC3
-Clase 7 05.FEB.2024: => PC4
-Clase 8 07.FEB.2024: => EXAMEN FINAL
+Clase 5 31.ENE.2024: => 
+Clase 6 02.FEB.2024: => PC2
+Clase 7 05.FEB.2024: => PC3
+Clase 8 07.FEB.2024: => PC4, EXAMEN FINAL
 
 SISTEMA DE CALIFICACIÓN
 -------------------------------------------------
